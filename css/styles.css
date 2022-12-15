@@ -1,0 +1,42 @@
+.filters:hover,
+.focus {
+  color: #2196f3;
+}
+.filters {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  color: #212121;
+  cursor: pointer;
+}
+.link:hover,
+.focus {
+  color: #2196f3;
+}
+.link {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  color: #212121;
+}
+.communication:hover,
+.focus {
+  color: #2196f3;
+}
+.communication {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  color: #212121;
+}
