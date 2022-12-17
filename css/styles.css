@@ -14,6 +14,7 @@
 .link:hover,
 .focus {
   color: #2196f3;
+  text-decoration: underline;
 }
 .link {
   font-family: "Roboto";
@@ -22,6 +23,7 @@
   font-size: 16px;
   line-height: 1.62;
   color: #212121;
+  text-decoration: none;
 }
 .communication:hover,
 .focus {
@@ -39,4 +41,50 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #212121;
+}
+.headline {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+.category {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1, 87;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+.logoblue {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+  text-decoration: none;
+}
+.logoblue:hover,
+.focus {
+  text-decoration: underline;
+}
+.logoblack {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  color: #000000;
+  text-decoration: none;
+}
+.logoblack:hover,
+.focus {
+  text-decoration: underline;
 }
