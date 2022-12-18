@@ -10,6 +10,8 @@
   line-height: 1.62;
   color: #212121;
   cursor: pointer;
+  background: #f5f4fa;
+  border-radius: 4px;
 }
 .link:hover,
 .focus {
@@ -87,4 +89,33 @@ body {
 .logoblack:hover,
 .focus {
   text-decoration: underline;
+}
+.homepagewelcomemessage {
+  background: #2f303a;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.orderbutton {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 30px;
+
+  display: center;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.06em;
+
+  color: #ffffff;
+  background: #2196f3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
 }
